@@ -1,6 +1,7 @@
 html {
   font-size: 10px;
   font-family: "PT Sans", sans-serif;
+  background-color: #a6c906;
 }
 
 h1 {
@@ -13,4 +14,12 @@ li {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: darkgreen;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
 }
