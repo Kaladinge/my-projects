@@ -1,3 +1,3 @@
-# my-projects
+# my-first-project
 
 This is my first project.
